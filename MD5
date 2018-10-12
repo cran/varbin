@@ -1,0 +1,9 @@
+6d8dfcdf7985247481a6d9556c553bd8 *DESCRIPTION
+4140e8063baa49661c523bc173031ad3 *NAMESPACE
+7e674491f169491a6f4f11fcfc63f132 *R/varbin.R
+1e44c3d1ae635083c5db167eaf0fcb26 *man/varbin.Rd
+cb6927d3137bacea57cd58a239dacfe6 *man/varbin.convert.Rd
+604acc80744a922b83b0075138d4d343 *man/varbin.factor.Rd
+dd3217f04a9e725e70546f45f107b64b *man/varbin.kink.Rd
+ea9198535e790413ade4bb800fa5eaeb *man/varbin.monotonic.Rd
+2a7c0917698037b39a755840cda52bcf *man/varbin.plot.Rd

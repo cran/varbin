@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(rpart)
+importFrom("graphics", "abline", "axis", "par", "plot", "title")
+  importFrom("stats", "as.formula", "as.stepfun", "cor", "isoreg",
+             "knots", "median", "na.omit")
